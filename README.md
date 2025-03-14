@@ -1,2 +1,2 @@
 # moodle-rusben
-!(nombre imagen)[nombre arcivo.png]
+!(primer paso)[primer paso.png]
