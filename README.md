@@ -29,4 +29,24 @@ Una vez echo eso hay que cambiar el 0 por 5001 i quitar las ; delante de "max" d
 
 ponemos el comando para reiniciar el apache.
 
+![Foto](8.png)
+
+Despues de esto la instalacion ya estaria completa, simplemente tenemos que avanzar entre las diferentes panatallas que no apareceran rellenando los datos.
+
+
+![Foto](9.png)
+
+![Foto](10.png)
+
+![Foto](11.png)
+
+![Foto](12.png)
+
+![Foto](13.png)
+
+Hasta llegar a esta pantalla la cual es la ultima i significa que todo ha ido a la perfeccion 
+
+
+![Foto](14.png)
+
 
