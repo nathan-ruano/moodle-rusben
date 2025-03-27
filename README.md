@@ -18,4 +18,15 @@ Despues llegaremos a una pantalla en la que no podremos avanzar, para arreglarlo
 
 ![Foto](5.png)
 
-Una vez echo esto nos llevara al siguiente menu en el que tendremos que pulsar control W
+Una vez echo esto nos llevara al siguiente menu en el que tendremos que pulsar control W i buscar max_input_var.
+
+![Foto](6.png)
+
+Una vez echo eso hay que cambiar el 0 por 5001 i quitar las ; delante de "max" despues pulsamos control o i pulsamos enter.
+
+
+![Foto](7.png)
+
+ponemos el comando para reiniciar el apache.
+
+
