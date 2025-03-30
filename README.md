@@ -49,4 +49,4 @@ Hasta llegar a esta pantalla la cual es la ultima y significa que todo ha salido
 
 ![Foto](14.png)
 
-
+## 1. Cambiar nombre, correo y avatar
