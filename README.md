@@ -79,6 +79,10 @@ Administración del sitio, Ubicacion
 
 ![Foto](23.png)
 
+## 1(D). Cambiar idioma.
+Administración del sitio, idioma, ajustes de idioma
 
+![Foto](20.png)
 
+![Foto](24.png)
 
