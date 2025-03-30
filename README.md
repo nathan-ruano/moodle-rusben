@@ -81,8 +81,13 @@ Administración del sitio, Ubicacion
 
 ## 1(D). Cambiar idioma.
 Administración del sitio, idioma, ajustes de idioma
+Para insttalar lo mismo pero en vez de entrar en ajustes hay que entrar en paquetes de idioma
 
 ![Foto](20.png)
 
 ![Foto](24.png)
+
+![Foto](25.png)
+
+![Foto](26.png)
 
