@@ -99,3 +99,15 @@ Administración del sitio, seguridad, politicas de seguridad del sitio
 ![Foto](27.png)
 
 ![Foto](28.png)
+
+## 2.Crear cursos.
+
+![Foto](29.png)
+
+![Foto](30.png)
+
+![Foto](31.png)
+
+![Foto](32.png)
+
+![Foto](33.png)
