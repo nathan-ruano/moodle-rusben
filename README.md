@@ -50,3 +50,14 @@ Hasta llegar a esta pantalla la cual es la ultima y significa que todo ha salido
 ![Foto](14.png)
 
 ## 1. Cambiar nombre, correo y avatar
+
+Para cambiar el nombre o cualquier cosa de nuestro perfil tenemos que darle al circulo de arriba a la izquierda darle a perfil i darle a editar hay se puede cambiar el correo electronico, el nombre, el avatar etc.  
+
+![Foto](15.png)
+
+![Foto](17.png)
+
+![Foto](18.png)
+
+![Foto](19.png)
+
