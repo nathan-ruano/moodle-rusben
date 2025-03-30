@@ -91,3 +91,11 @@ Para insttalar lo mismo pero en vez de entrar en ajustes hay que entrar en paque
 
 ![Foto](26.png)
 
+## 1(E).Politica de contraseñas.
+Administración del sitio, seguridad, politicas de seguridad del sitio
+
+![Foto](20.png)
+
+![Foto](27.png)
+
+![Foto](28.png)
