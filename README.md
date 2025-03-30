@@ -111,3 +111,8 @@ Administración del sitio, seguridad, politicas de seguridad del sitio
 ![Foto](32.png)
 
 ![Foto](33.png)
+
+
+## 3.Modificar cursos.
+
+![Foto](34.png)
