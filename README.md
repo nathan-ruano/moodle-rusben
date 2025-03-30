@@ -49,7 +49,7 @@ Hasta llegar a esta pantalla la cual es la ultima y significa que todo ha salido
 
 ![Foto](14.png)
 
-## 1. Cambiar nombre, correo y avatar
+## 1(A). Cambiar nombre, correo y avatar.
 
 Para cambiar el nombre o cualquier cosa de nuestro perfil tenemos que darle al circulo de arriba a la izquierda darle a perfil i darle a editar hay se puede cambiar el correo electronico, el nombre, el avatar etc.  
 
@@ -60,4 +60,23 @@ Para cambiar el nombre o cualquier cosa de nuestro perfil tenemos que darle al c
 ![Foto](18.png)
 
 ![Foto](19.png)
+
+## 1(B). Cambiar nombre del sitio.
+
+Administración del sitio, ajustes de la pagina principal del sitio.
+
+![Foto](20.png)
+
+![Foto](21.png)
+
+![Foto](22.png)
+
+## 1(C). Franja horaria.
+
+Administración del sitio, Ubicacion
+
+![Foto](20.png)
+
+
+
 
