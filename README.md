@@ -77,6 +77,8 @@ Administración del sitio, Ubicacion
 
 ![Foto](20.png)
 
+![Foto](23.png)
+
 
 
 
