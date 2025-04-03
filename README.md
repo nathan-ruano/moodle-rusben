@@ -63,7 +63,7 @@ Para cambiar el nombre o cualquier cosa de nuestro perfil tenemos que darle al c
 
 ## 1(B). Cambiar nombre del sitio.
 
-Administración del sitio, ajustes de la pagina principal del sitio.
+Administración del sitio > ajustes de la pagina principal del sitio.
 
 ![Foto](20.png)
 
@@ -73,14 +73,14 @@ Administración del sitio, ajustes de la pagina principal del sitio.
 
 ## 1(C). Franja horaria.
 
-Administración del sitio, Ubicacion
+Administración del sitio > Ubicacion
 
 ![Foto](20.png)
 
 ![Foto](23.png)
 
 ## 1(D). Cambiar idioma.
-Administración del sitio, idioma, ajustes de idioma
+Administración del sitio > idioma > ajustes de idioma
 Para insttalar lo mismo pero en vez de entrar en ajustes hay que entrar en paquetes de idioma
 
 ![Foto](20.png)
@@ -92,7 +92,7 @@ Para insttalar lo mismo pero en vez de entrar en ajustes hay que entrar en paque
 ![Foto](26.png)
 
 ## 1(E).Politica de contraseñas.
-Administración del sitio, seguridad, politicas de seguridad del sitio
+Administración del sitio > seguridad > politicas de seguridad del sitio
 
 ![Foto](20.png)
 
@@ -119,3 +119,30 @@ Administración del sitio, seguridad, politicas de seguridad del sitio
 
 
 ## 4. creacion de usuarios
+
+## (A) Crea manualment un usuari anomenat Bob que ha de fer servir el mètode d'autenticació manual
+
+Administracion del sitio > cuentas > crear nuevo usuario 
+
+![Foto](20.png)
+
+![Foto](35.png)
+
+![Foto](36.png)
+
+![Foto](37.png)
+
+![Foto](38.png)
+
+## B) Genera deu alumnes que ho seran dels dos cursos A i B .
+
+![Foto](39.png)
+
+![Foto](40.png)
+
+## (C) Elimina dos dels deu alumnes creats a l'apartat anterior fent servir l'opció
+
+![Foto](41.png)
+
+![Foto](41.png)
+
