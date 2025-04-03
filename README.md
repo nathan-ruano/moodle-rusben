@@ -146,3 +146,4 @@ Administracion del sitio > cuentas > crear nuevo usuario
 
 ![Foto](41.png)
 
+## 5. Ara matricula aquests usuaris als diferents cursos.
